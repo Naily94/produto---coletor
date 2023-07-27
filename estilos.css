@@ -1,0 +1,80 @@
+head, h2{
+    font-family:'Courgette';
+    text-align: center;
+    text-shadow: 2px;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+body{
+    font-family:'Courgette';
+  
+}
+
+h3{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.video-area{
+    display: flex;
+    flex-direction: row-reverse;  
+}
+
+h4{
+    text-align: end;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+header{
+    text-align: center;
+    font-family: 'Courgette';
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    float: left;
+}
+.lista{
+display: flex;
+}
+
+ul{
+    padding: 20px;
+    margin: 10px;
+}
+
+a{
+    padding: 10px;
+    margin: 10px;
+}
+
+.coletor{
+    display: flex;
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 200px;
+    
+}
+
+button{
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family: Courgette;
+}
+
+button:hover{
+    color: blueviolet;
+}
+
+footer{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    margin: 30px;
+    height: 50px;
+    text-align: center;
+}
